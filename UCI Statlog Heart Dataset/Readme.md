@@ -1,7 +1,7 @@
 **Source:** UCI Machine Learnin Repository - [Statlog Heart Dataset](https://archive.ics.uci.edu/ml/datasets/statlog+(heart))
 
 **Data Set Information:**
-This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to this date. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4. Experiments with the Cleveland database have concentrated on simply attempting to distinguish presence (values 1,2,3,4) from absence (value 0).
+This dataset is a heart disease database similar to a database already present in the repository (Heart Disease databases) but in a slightly different form.
 
 **Attribute Information:**
 1. age
